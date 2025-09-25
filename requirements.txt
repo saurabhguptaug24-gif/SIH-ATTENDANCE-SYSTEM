@@ -1,0 +1,14 @@
+Flask
+Flask-PyMongo
+opencv-python
+numpy
+pandas
+face-recognition
+easyocr
+pytesseract
+fuzzywuzzy
+python-Levenshtein
+tqdm
+python-dotenv
+gunicorn
+Flask-Cors
